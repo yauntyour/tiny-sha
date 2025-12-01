@@ -1,4 +1,4 @@
-# Tiny SHA Library
+# Tiny SHA Library (Fork from [0xNullll](https://github.com/yauntyour/tiny-sha/commits?author=0xNullll)) Single-header version
 
 A lightweight, portable C library implementing a wide range of SHA algorithms, fully enabled by default and optimized for both little-endian and big-endian systems.
 
@@ -209,3 +209,4 @@ I wrote Tiny SHA because I wanted a small, self-contained hashing library I can 
 ## License
 
 This project is released under the **MIT License**. See `LICENSE` for full text.
+
